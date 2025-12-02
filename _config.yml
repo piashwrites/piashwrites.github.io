@@ -26,7 +26,7 @@ twitter:
 
 social:
   name: Shamsuddin Piash
-  email: # add later if you want it public
+  email: mohammadshamsuddinpiash0722@gmail.com
   links:
     - https://github.com/piashwrites
 
@@ -69,7 +69,7 @@ cdn:
 avatar: /assets/img/profile.jpg
 
 # Social preview image
-social_preview_image: /assets/img/social-preview.jpg
+social_preview_image: /assets/img/piash.jpg
 
 # Enable table of contents
 toc: true
