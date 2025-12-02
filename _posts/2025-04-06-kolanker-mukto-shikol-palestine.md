@@ -1,6 +1,6 @@
 ---
 title: "কলঙ্কের মুক্ত শিকল"
-date: 2025-12-02 11:32:00 +0600
+date: 2025-04-06 11:32:00 +0600
 categories: [Reflection]
 tags: [palestine, faith, justice]
 ---
