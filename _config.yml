@@ -126,8 +126,7 @@ defaults:
       layout: page
       permalink: /:title/
 
-
-  style: compressed
+style: compressed
 
 compress_html:
   clippings: all
