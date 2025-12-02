@@ -60,7 +60,7 @@ pageviews:
   provider:
 
 # Theme mode
-theme_mode:
+theme_mode: light
 
 # Optional CDN
 cdn:
